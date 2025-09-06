@@ -1,5 +1,15 @@
 #!/bin/bash
 # Sorcereric's Universal Hyprland Setup Script
+
+
+#  .::::::.     ...    :::::::..     .,-::::: .,:::::: :::::::..  .,:::::: :::::::..   :::  .,-:::::  
+# ;;;`    `  .;;;;;;;. ;;;;``;;;;  ,;;;'````' ;;;;'''' ;;;;``;;;; ;;;;'''' ;;;;``;;;;  ;;;,;;;'````'  
+# '[==/[[[[,,[[     \[[,[[[,/[[['  [[[         [[cccc   [[[,/[[['  [[cccc   [[[,/[[['  [[[[[[         
+#   '''    $$$$,     $$$$$$$$$c    $$$         $$""""   $$$$$$c    $$""""   $$$$$$c    $$$$$$         
+# 88b    dP"888,_ _,88P888b "88bo,`88bo,__,o, 888oo,__ 888b "88bo,888oo,__ 888b "88bo,888`88bo,__,o, 
+# "YMmMY"   "YMMMMMP" MMMM   "W"   "YUMMMMMP"""""YUMMMMMMM   "W" """"YUMMMMMMM   "W" MMM  "YUMMMMMP"
+
+
 # TTY-Compatible, Official Repos Only, Fully Automatic
 
 # -----------------------------
