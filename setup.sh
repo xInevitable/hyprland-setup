@@ -21,7 +21,7 @@ BACKUP_DIR="$HOME/.config/hypr-backup-$(date +%Y%m%d%H%M%S)"
 
 APPS=(hyprland hyprpaper wofi rofi waybar mako nm-applet pavucontrol network-manager-applet \
 htop neofetch fastfetch git vim nano curl wget zsh pulseaudio pipewire bluez blueman picom \
-mpv firefox dolphin light brightnessctl kitty)
+mpv firefox dolphin light brightnessctl kitty vlc)
 
 # -----------------------------
 # FUNCTIONS
