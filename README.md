@@ -94,7 +94,7 @@ All configs are stored in:
 | **Picom**                                | Compositor for transparency, shadows, and effects.    |
 | **Neofetch / Fastfetch**                 | Display system info in terminal.                      |
 | **Htop**                                 | Terminal process monitor.                             |
-| **MPV**                                  | Lightweight media player.                             |
+| **MPV / Vlc**                            | Lightweight media player.                             |
 | **Firefox**                              | Web browser.                                          |
 | **Dolphin**                              | File manager.                                         |
 | **Light / brightnessctl**                | Adjust screen brightness.                             |
