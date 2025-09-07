@@ -1,11 +1,11 @@
 
 
-# 🪄 Sorcereric's Hyprland Setup 🪄
+# 🪄 xInevitable's Hyprland Setup 🪄
 
 
 
 <p align="center">
-  <img src="images/" alt="Sorcereric" height="7980px" width="1520px">
+  <img src="images/" alt="xInevitable" height="7980px" width="1520px">
 </p>
 
 
@@ -47,14 +47,14 @@ Designed to:
 ### Step 1: Clone the repository (optional)
 
 ```
-git clone https://github.com/sorcereric/hyprland-setup.git
+git clone https://github.com/xInevitable/hyprland-setup.git
 cd hyprland-setup
 ```
 
 ### Step 2: Run the universal installer directly from GitHub
 
 ```
-bash -c "$(curl -fsSL https://github.com/sorcereric/hyprland-setup/raw/main/setup.sh)"
+bash -c "$(curl -fsSL https://github.com/xInevitable/hyprland-setup/raw/main/setup.sh)"
 ```
 
 This will:
@@ -133,7 +133,7 @@ Open source – freely modify and distribute your configurations.
 
 This is **all-in-one, ready to copy**, and includes:  
 
-- The **ASCII Figlet heading** for Sorcereric  
+- The **ASCII Figlet heading** for xInevitable  
 - Installation instructions  
 - Full app table with descriptions  
 - TTY support notes  
