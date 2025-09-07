@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="images/sorcereric.png" alt="Sorcereric" height="7980px" width="1520px">
+  <img src="images/" alt="Sorcereric" height="7980px" width="1520px">
 </p>
 
 
