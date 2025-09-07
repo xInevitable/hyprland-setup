@@ -1,21 +1,12 @@
 #!/bin/bash
-# Sorcereric's Universal Hyprland Setup Script
-
-
-#  .::::::.     ...    :::::::..     .,-::::: .,:::::: :::::::..  .,:::::: :::::::..   :::  .,-:::::  
-# ;;;`    `  .;;;;;;;. ;;;;``;;;;  ,;;;'````' ;;;;'''' ;;;;``;;;; ;;;;'''' ;;;;``;;;;  ;;;,;;;'````'  
-# '[==/[[[[,,[[     \[[,[[[,/[[['  [[[         [[cccc   [[[,/[[['  [[cccc   [[[,/[[['  [[[[[[         
-#   '''    $$$$,     $$$$$$$$$c    $$$         $$""""   $$$$$$c    $$""""   $$$$$$c    $$$$$$         
-# 88b    dP"888,_ _,88P888b "88bo,`88bo,__,o, 888oo,__ 888b "88bo,888oo,__ 888b "88bo,888`88bo,__,o, 
-# "YMmMY"   "YMMMMMP" MMMM   "W"   "YUMMMMMP"""""YUMMMMMMM   "W" """"YUMMMMMMM   "W" MMM  "YUMMMMMP"
-
+# xInevitable's Universal Hyprland Setup Script
 
 # TTY-Compatible, Official Repos Only, Fully Automatic
 
 # -----------------------------
 # CONFIG
 # -----------------------------
-GITHUB_REPO="https://github.com/sorcereric/hyprland-setup"
+GITHUB_REPO="https://github.com/xInevitable/hyprland-setup"
 LOCAL_CONFIG="$HOME/.config/hypr"
 BACKUP_DIR="$HOME/.config/hypr-backup-$(date +%Y%m%d%H%M%S)"
 
@@ -46,8 +37,8 @@ backup_config() {
 
 download_config() {
     mkdir -p "$LOCAL_CONFIG"
-    curl -fsSL "https://github.com/sorcereric/hyprland-setup/raw/main/hyprland.conf" -o "$LOCAL_CONFIG/hyprland.conf"
-    curl -fsSL "https://github.com/sorcereric/hyprland-setup/raw/main/keybinds.conf" -o "$LOCAL_CONFIG/keybinds.conf"
+    curl -fsSL "https://github.com/xInevitable/hyprland-setup/raw/main/hyprland.conf" -o "$LOCAL_CONFIG/hyprland.conf"
+    curl -fsSL "https://github.com/xInevitable/hyprland-setup/raw/main/keybinds.conf" -o "$LOCAL_CONFIG/keybinds.conf"
 }
 
 reload_hyprland() {
