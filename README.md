@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1SHINBWaW9apKffPw5whLffTNJQdXnzb48g&s" alt="xInevitable" height="7980px" width="1520px">
+  <img src="" alt="xInevitable" height="798px" width="152px">
 </p>
 
 
