@@ -131,13 +131,6 @@ Open source – freely modify and distribute your configurations.
 
 ---
 
-This is **all-in-one, ready to copy**, and includes:  
-
-- The **ASCII Figlet heading** for xInevitable  
-- Installation instructions  
-- Full app table with descriptions  
-- TTY support notes  
-- License section  
-
+This is **all-in-one, ready to copy**, and includes:    
 ---
 
